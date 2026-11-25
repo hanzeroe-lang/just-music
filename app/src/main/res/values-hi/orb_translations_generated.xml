@@ -41,7 +41,7 @@
     <string name="album_rating_value">आपकी रेटिंग: %1$s</string>
     <string name="album_song_singular">1 गाना</string>
     <string name="album_songs_plural">%d गाने</string>
-    <string name="app_name">Just music</string>
+    <string name="app_name">just music</string>
     <string name="artist_beta_empty">इस श्रेणी में अभी तक कोई आइटम नहीं है।</string>
     <string name="artist_beta_rating_description">आपके एल्बम की औसत रेटिंग: 5 में से %1$s ।</string>
     <string name="artist_blocked">इस कलाकार के गाने दोबारा चलाएं</string>

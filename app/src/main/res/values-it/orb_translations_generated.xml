@@ -41,7 +41,7 @@
     <string name="album_rating_value">La tua valutazione: %1$s / 5</string>
     <string name="album_song_singular">1 canzone</string>
     <string name="album_songs_plural">%d canzoni</string>
-    <string name="app_name">Just music</string>
+    <string name="app_name">just music</string>
     <string name="artist_beta_empty">Non ci sono ancora articoli in questa categoria.</string>
     <string name="artist_beta_rating_description">Il tuo voto medio per l\'album: %1$s su 5.</string>
     <string name="artist_blocked">Ascolta di nuovo questo artista</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Just music</string>
+    <string name="app_name">just music</string>
     <string name="playback_channel_name">Reproduciendo</string>
     <string name="tab_play">Escuchar</string>
     <string name="tab_explore">Explorar</string>

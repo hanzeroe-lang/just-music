@@ -41,7 +41,7 @@
     <string name="album_rating_value">คะแนนของคุณ: %1$s / 5</string>
     <string name="album_song_singular">1 เพลง</string>
     <string name="album_songs_plural">%d เพลง</string>
-    <string name="app_name">Just music</string>
+    <string name="app_name">just music</string>
     <string name="artist_beta_empty">ยังไม่มีสินค้าในหมวดหมู่นี้</string>
     <string name="artist_beta_rating_description">คะแนนเฉลี่ยของอัลบั้มนี้: %1$s</string>
     <string name="artist_blocked">ลองฟังเพลงของศิลปินคนนี้อีกครั้ง</string>

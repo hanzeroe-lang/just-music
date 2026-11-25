@@ -41,7 +41,7 @@
     <string name="album_rating_value">Ваша оценка: %1$s / 5</string>
     <string name="album_song_singular">1 песня</string>
     <string name="album_songs_plural">%d песен</string>
-    <string name="app_name">Just music</string>
+    <string name="app_name">just music</string>
     <string name="artist_beta_empty">В этой категории пока нет товаров.</string>
     <string name="artist_beta_rating_description">Ваша средняя оценка альбома: %1$s из 5.</string>
     <string name="artist_blocked">Сыграйте с этим исполнителем еще раз</string>

@@ -81,7 +81,7 @@ val orbGoogleWebClientId = gradleProperty("ORB_GOOGLE_WEB_CLIENT_ID")
 // sem downgrade de versionCode.
 // ============================================================
 
-val appVersionName = "1.0.0"
+val appVersionName = "1.0.1"
 
 // 1  = "-beta"
 // 2  = "-beta.2"
